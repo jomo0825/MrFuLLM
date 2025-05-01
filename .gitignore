@@ -1,3 +1,4 @@
-.vscode
-.SelfInstruction/llama-3.2-1b-alpaca-lora/*
+./vscode
+./SelfInstruction/llama-3.2-1b-alpaca-lora/*
+./SelfInstruction/llama-3.2-1b-alpaca-lora/checkpoint-100/*
 hf_token.txt
